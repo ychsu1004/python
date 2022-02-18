@@ -6,4 +6,4 @@ def calc_fib(n):
 
 fib = int(input("input a number:"))
 for i in range(fib):
-    print( calc_fib(i), end=' ')
+    print(calc_fib(i), end=' ')
